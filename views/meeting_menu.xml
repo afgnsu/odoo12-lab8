@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <!--頂級菜單-->
+    <menuitem id="menu_meeting" name="Lab8(會議)"/>
+
+    <!--會議記錄觸發-->
+    <act_window id="action_meeting_main"
+                name="會議記錄"
+                res_model="meeting.main"
+                view_mode="calendar,tree,kanban,form"/>
+    <!--會議地點觸發-->
+    <act_window id="action_meeting_site"
+                name="會議地點"
+                res_model="meeting.site"
+                view_mode="tree,form"/>
+    <!--二級菜單-->
+    <!--會議記錄菜單-->
+    <menuitem id="menu_meeting_main" name="會議記錄" parent="menu_meeting" action="action_meeting_main"/>
+    <!--會議相關菜單-->
+    <menuitem id="menu_meeting_other" name="會議相關" parent="menu_meeting"/>
+
+    <!--三級菜單-->
+    <menuitem id="menu_meeting_site" name="地點" parent="menu_meeting_other" action="action_meeting_site"/>
+</odoo>
