@@ -10,14 +10,12 @@
 ![Demo3](https://github.com/afgnsu/odoo12-lab8/blob/main/03.jpg)
 * 選擇時間
 ![Demo4](https://github.com/afgnsu/odoo12-lab8/blob/main/04.jpg)
-* 編輯(待辦事項)
+* 周曆
 ![Demo5](https://github.com/afgnsu/odoo12-lab8/blob/main/05.jpg)
-* 曆
-![Demo6](https://github.com/afgnsu/odoo12-lab8/blob/main/06.jpg)
 * 月曆
-![Demo7](https://github.com/afgnsu/odoo12-lab8/blob/main/07.jpg)
+![Demo6](https://github.com/afgnsu/odoo12-lab8/blob/main/06.jpg)
 * 清單
-![Demo8](https://github.com/afgnsu/odoo12-lab8/blob/main/08.jpg)
+![Demo7](https://github.com/afgnsu/odoo12-lab8/blob/main/07.jpg)
 * 看板
-![Demo9](https://github.com/afgnsu/odoo12-lab8/blob/main/09.jpg)
+![Demo8](https://github.com/afgnsu/odoo12-lab8/blob/main/08.jpg)
 ---
